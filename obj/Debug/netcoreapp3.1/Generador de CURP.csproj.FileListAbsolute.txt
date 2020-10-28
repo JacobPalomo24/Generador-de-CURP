@@ -1,0 +1,13 @@
+C:\Users\jocel\source\repos\Generador de CURP\bin\Debug\netcoreapp3.1\Generador de CURP.exe
+C:\Users\jocel\source\repos\Generador de CURP\bin\Debug\netcoreapp3.1\Generador de CURP.deps.json
+C:\Users\jocel\source\repos\Generador de CURP\bin\Debug\netcoreapp3.1\Generador de CURP.runtimeconfig.json
+C:\Users\jocel\source\repos\Generador de CURP\bin\Debug\netcoreapp3.1\Generador de CURP.runtimeconfig.dev.json
+C:\Users\jocel\source\repos\Generador de CURP\bin\Debug\netcoreapp3.1\Generador de CURP.dll
+C:\Users\jocel\source\repos\Generador de CURP\bin\Debug\netcoreapp3.1\Generador de CURP.pdb
+C:\Users\jocel\source\repos\Generador de CURP\obj\Debug\netcoreapp3.1\Generador de CURP.csprojAssemblyReference.cache
+C:\Users\jocel\source\repos\Generador de CURP\obj\Debug\netcoreapp3.1\Generador de CURP.AssemblyInfoInputs.cache
+C:\Users\jocel\source\repos\Generador de CURP\obj\Debug\netcoreapp3.1\Generador de CURP.AssemblyInfo.cs
+C:\Users\jocel\source\repos\Generador de CURP\obj\Debug\netcoreapp3.1\Generador de CURP.csproj.CoreCompileInputs.cache
+C:\Users\jocel\source\repos\Generador de CURP\obj\Debug\netcoreapp3.1\Generador de CURP.dll
+C:\Users\jocel\source\repos\Generador de CURP\obj\Debug\netcoreapp3.1\Generador de CURP.pdb
+C:\Users\jocel\source\repos\Generador de CURP\obj\Debug\netcoreapp3.1\Generador de CURP.genruntimeconfig.cache
